@@ -1,0 +1,12 @@
+# Ignore venv
+passman_env/
+
+# Ignore IDE-shiz
+.vscode/
+
+# ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Credentials / env variables
+.env
